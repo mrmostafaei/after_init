@@ -1,7 +1,6 @@
 name: miladtech_after_init
 description: Adds a didInitState() lifecycle method to stateful widgets where you can safely access inherited widgets.
 version: 0.1.2
-author: MiladTech <info@milad-tech.com>
 homepage: https://github.com/mrmostafaei/after_init
 
 environment:
